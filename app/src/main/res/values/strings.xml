@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StudyWithMe</string>
+    <string name="app_description">Feeling to lazy to study alone? Join now and find your study buddy.</string>
+
+    <string-array name="categories">
+        <item>WORK</item>
+        <item>UNIVERSITY</item>
+        <item>HOBBY</item>
+    </string-array>
+
+    <!-- Navigation -->
+    <string name="navigation_home">Home</string>
+    <string name="navigation_timer">Timer</string>
+    <string name="navigation_history">History</string>
+
+    <!-- Timer -->
+    <string name="empty_timer">Looks like you did not set a timer yet. Why don\'t you start one right now?</string>
+
+    <!-- History -->
+    <string name="private_session">Private Session</string>
+
+    <!-- Headings -->
+    <string name="heading_sign_in">Sign In</string>
+    <string name="heading_testing">Testing</string>
+    <string name="heading_session_list">All open Sessions</string>
+    <string name="heading_questionnaire">Setup your Session</string>
+    <string name="heading_timer">Your Timer</string>
+    <string name="heading_history">Your Sessions</string>
+    <string name="heading_reflection">Reflect on your Session</string>
+
+    <!-- Buttons -->
+    <string name="sign_out">Sign Out</string>
+    <string name="start_session">Start Session</string>
+</resources>
